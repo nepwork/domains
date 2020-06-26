@@ -10,7 +10,7 @@
 
 cosys.work is a development platform that provides nep.work like collaborative systems. CoSys primarily consists of archetypes of collaboration systems that can be used within the CoPlanetary ecosystem.
 
-CoSys provides cloud enterprise services like hierarchical document access and collaboration to cst.
+Currently the following <a href="https://youtu.be/nxX_Z6BKySw" target="_blank">document collaboration tool</a> is provided to cst from CoSys containers repo.
 
 ## nep.work team
 
