@@ -1,0 +1,23 @@
+{
+  "name": "arch-papers",
+  "version": "1.0.0",
+  "description": "A description of nepwork related business domains.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nepwork/domains.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nepwork/domains/issues"
+  },
+  "homepage": "https://github.com/nepwork/domains#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0"
+  }
+}

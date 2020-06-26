@@ -12,7 +12,6 @@ cosys.work is a development platform that provides nep.work like collaborative s
 
 CoSys provides cloud enterprise services like hierarchical document access and collaboration to cst.
 
-
 ## nep.work team
 
 nep.work is a development team that works with covidsim.team, NAAMII, i-ikigai and Meraki. nep.work provides a customization support and the following systems for cst:
