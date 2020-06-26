@@ -8,7 +8,7 @@
 
 ## nep.work team
 
-nep.work is a development team that works with covidsim.team, NAAMII and Meraki.
+nep.work is a development team that works with covidsim.team, NAAMII, i-ikigai and Meraki.
 
 ## cosys.work
 
