@@ -4,7 +4,8 @@
   "description": "A description of nepwork related business domains.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gen": "npx @11ty/eleventy --input=. --output=docs"
   },
   "repository": {
     "type": "git",
