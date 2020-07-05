@@ -45,3 +45,35 @@ A recording system of all commonly known semiotic descriptors and algebraic stru
 ### YAM & IAM
 
 Identity and De-identity cards and keys generators produce key cards for identification and de-identification.
+
+## Example
+
+Unit Budgeting
+
+- Business Day
+- Off Day
+- Contactless Interaction
+- Identity
+
+Unit Focus Cost
+- Time
+- Relation
+- Meaning
+- Behavior
+
+Every day is a business day. Calculate its cost.
+
+- Wake Up Scheduling (Morning Schedule)
+- Work Start Scheduling (Time and Requirement)
+- Work Transport (Vehicle, Petrol+Parking etc, Clothing & Protections)
+- Entrance Booth Workflow (Sanitization, Office Storage, Sandboxing)
+- Entry Protocol (Scan card, eyes-face-DNA, digital footprint)
+- Exit, Transport Optimization, De-Work
+
+Work Software requirements. All of it is confidential.
+- .work => nep.work, cosys.work, coplanetary.work => yourcompany.work => All Employee's All Inputs => work-system
+- .health => .work => yourcompany.health => All Employee's Health Data => health-system
+- .shop => .health => yourcompany.shop => All Products and All Services Shopkeeping => shop-system
+- .com/.co => .shop => yourcompany.co => All Collaborations and All Projects Management => mgmt-system
+- .biz/.ceo => .co => yourname.biz, yourname.ceo => All Interactions and All Interactions' Recording => recd-system
+- .app/.art/.design/.dev/.studio/.club/.tech/.news/.group/.life/.help => .biz => .work => Everything => ubiq-system
