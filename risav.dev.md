@@ -71,9 +71,20 @@ Every day is a business day. Calculate its cost.
 - Exit, Transport Optimization, De-Work
 
 Work Software requirements. All of it is confidential.
+
 - .work => nep.work, cosys.work, coplanetary.work => yourcompany.work => All Employee's All Inputs => work-system
 - .health => .work => yourcompany.health => All Employee's Health Data => health-system
 - .shop => .health => yourcompany.shop => All Products and All Services Shopkeeping => shop-system
 - .com/.co => .shop => yourcompany.co => All Collaborations and All Projects Management => mgmt-system
 - .biz/.ceo => .co => yourname.biz, yourname.ceo => All Interactions and All Interactions' Recording => recd-system
 - .app/.art/.design/.dev/.studio/.club/.tech/.news/.group/.life/.help => .biz => .work => Everything => ubiq-system
+
+Software Products.
+
+Scheduler ([Id], Action, Time) => event-system => ([product-id, delivery-id, sender-recipient-id], Delivery, 3 hr)
+- 10-5 system => matrix-system => (Collectives, Concurrents, Aggregates, Emulators, Actions, Collaborations)
+- Scheduled Transportation => space-time-system => (time, vehicle, passengers-destinations map)
+- Entrance System => booth-system => (Individual person/thing, Initial, Final)
+- Identification System => scan-system => (Card, Code, Biometrics)
+- De-Work Flow => unwork-system => (Work Assets, Personal Assets, Person)
+- Computational Transport => all-system => (All User-Sensor-Platform Inputs)
